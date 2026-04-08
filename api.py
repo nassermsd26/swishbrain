@@ -33,12 +33,14 @@ from injury_player_stats import scrape_injured_players_stats
 from cleaning4 import clean_injuries_stats
 from analyse import analyse_automatique
 
+import re
+
 app = Flask(__name__)
 CORS(app, origins=[
     "http://localhost:3001",
     "http://localhost:5173",
-    "https://*.vercel.app",
-    "https://*.onrender.com",
+    re.compile(r"https://.*\.vercel\.app"),
+    re.compile(r"https://.*\.onrender\.com"),
 ])  # Permet les requêtes depuis le frontend (local + production)
 
 # Configuration JWT
