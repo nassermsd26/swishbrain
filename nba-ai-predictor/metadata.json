@@ -1,0 +1,5 @@
+{
+  "name": "NBA AI Predictor",
+  "description": "Advanced NBA match prediction engine using machine learning and real-time stats.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+api.log
+backend.log
+server.log
+flask_output.log
+frontend.log
+
+# Data (trop volumineux pour GitHub)
+data/raw/
+data/clean/
+data/cache/
+
+# Modèles ML (trop volumineux)
+models/*.pkl
+models/*.joblib
+
+# Secrets
+.env
+.env.local
+.env.production
+*.env
+
+# Node
+nba-ai-predictor/node_modules/
+nba-ai-predictor/dist/
+nba-ai-predictor/.env.local
+
+# macOS
+.DS_Store
+.idea/
+
+# Zip
+*.zip
+
+# SQLite DB (données locales)
+data/nba.db
+
+# Venv
+venv/
+.venv/
+nba-ai-predictor/public/blackjack/.venv/

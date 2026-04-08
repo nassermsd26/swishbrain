@@ -1,0 +1,255 @@
+{
+  "scores": [
+    {
+      "id": "401836797",
+      "homeTeam": "IND",
+      "awayTeam": "WAS",
+      "homeScore": 89,
+      "awayScore": 108,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "WAS"
+    },
+    {
+      "id": "401836799",
+      "homeTeam": "CLE",
+      "awayTeam": "CHA",
+      "homeScore": 111,
+      "awayScore": 119,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "CHA"
+    },
+    {
+      "id": "401836798",
+      "homeTeam": "ATL",
+      "awayTeam": "PHI",
+      "homeScore": 120,
+      "awayScore": 117,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "ATL"
+    },
+    {
+      "id": "401836800",
+      "homeTeam": "BKN",
+      "awayTeam": "MIL",
+      "homeScore": 127,
+      "awayScore": 82,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "BKN"
+    },
+    {
+      "id": "401836801",
+      "homeTeam": "MIN",
+      "awayTeam": "SAC",
+      "homeScore": 117,
+      "awayScore": 103,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "MIN"
+    },
+    {
+      "id": "401836804",
+      "homeTeam": "CHI",
+      "awayTeam": "NOP",
+      "homeScore": 104,
+      "awayScore": 114,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "NOP"
+    },
+    {
+      "id": "401839699",
+      "homeTeam": "PHX",
+      "awayTeam": "LAL",
+      "homeScore": 114,
+      "awayScore": 116,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "LAL"
+    },
+    {
+      "id": "401836802",
+      "homeTeam": "POR",
+      "awayTeam": "GSW",
+      "homeScore": 136,
+      "awayScore": 131,
+      "date": "14 Dec",
+      "dateFull": "2025-12-14",
+      "winner": "POR"
+    },
+    {
+      "id": "401809837",
+      "homeTeam": "ORL",
+      "awayTeam": "NYK",
+      "homeScore": 120,
+      "awayScore": 132,
+      "date": "13 Dec",
+      "dateFull": "2025-12-13",
+      "winner": "NYK"
+    },
+    {
+      "id": "401809838",
+      "homeTeam": "OKC",
+      "awayTeam": "SAS",
+      "homeScore": 109,
+      "awayScore": 111,
+      "date": "13 Dec",
+      "dateFull": "2025-12-13",
+      "winner": "SAS"
+    },
+    {
+      "id": "401836750",
+      "homeTeam": "CHA",
+      "awayTeam": "CHI",
+      "homeScore": 126,
+      "awayScore": 129,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "CHI"
+    },
+    {
+      "id": "401836751",
+      "homeTeam": "DET",
+      "awayTeam": "ATL",
+      "homeScore": 142,
+      "awayScore": 115,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "DET"
+    },
+    {
+      "id": "401836752",
+      "homeTeam": "PHI",
+      "awayTeam": "IND",
+      "homeScore": 115,
+      "awayScore": 105,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "PHI"
+    },
+    {
+      "id": "401836753",
+      "homeTeam": "WAS",
+      "awayTeam": "CLE",
+      "homeScore": 126,
+      "awayScore": 130,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "CLE"
+    },
+    {
+      "id": "401836754",
+      "homeTeam": "MEM",
+      "awayTeam": "UTA",
+      "homeScore": 126,
+      "awayScore": 130,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "UTA"
+    },
+    {
+      "id": "401836795",
+      "homeTeam": "DAL",
+      "awayTeam": "BKN",
+      "homeScore": 119,
+      "awayScore": 111,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "DAL"
+    },
+    {
+      "id": "401836796",
+      "homeTeam": "GSW",
+      "awayTeam": "MIN",
+      "homeScore": 120,
+      "awayScore": 127,
+      "date": "12 Dec",
+      "dateFull": "2025-12-12",
+      "winner": "MIN"
+    },
+    {
+      "id": "401836746",
+      "homeTeam": "HOU",
+      "awayTeam": "LAC",
+      "homeScore": 115,
+      "awayScore": 113,
+      "date": "11 Dec",
+      "dateFull": "2025-12-11",
+      "winner": "HOU"
+    },
+    {
+      "id": "401836747",
+      "homeTeam": "MIL",
+      "awayTeam": "BOS",
+      "homeScore": 116,
+      "awayScore": 101,
+      "date": "11 Dec",
+      "dateFull": "2025-12-11",
+      "winner": "MIL"
+    },
+    {
+      "id": "401836748",
+      "homeTeam": "NOP",
+      "awayTeam": "POR",
+      "homeScore": 143,
+      "awayScore": 120,
+      "date": "11 Dec",
+      "dateFull": "2025-12-11",
+      "winner": "NOP"
+    },
+    {
+      "id": "401836749",
+      "homeTeam": "SAC",
+      "awayTeam": "DEN",
+      "homeScore": 105,
+      "awayScore": 136,
+      "date": "11 Dec",
+      "dateFull": "2025-12-11",
+      "winner": "DEN"
+    },
+    {
+      "id": "401809835",
+      "homeTeam": "OKC",
+      "awayTeam": "PHX",
+      "homeScore": 138,
+      "awayScore": 89,
+      "date": "10 Dec",
+      "dateFull": "2025-12-10",
+      "winner": "OKC"
+    },
+    {
+      "id": "401809836",
+      "homeTeam": "LAL",
+      "awayTeam": "SAS",
+      "homeScore": 119,
+      "awayScore": 132,
+      "date": "10 Dec",
+      "dateFull": "2025-12-10",
+      "winner": "SAS"
+    },
+    {
+      "id": "401809833",
+      "homeTeam": "ORL",
+      "awayTeam": "MIA",
+      "homeScore": 117,
+      "awayScore": 108,
+      "date": "09 Dec",
+      "dateFull": "2025-12-09",
+      "winner": "ORL"
+    },
+    {
+      "id": "401809834",
+      "homeTeam": "TOR",
+      "awayTeam": "NYK",
+      "homeScore": 101,
+      "awayScore": 117,
+      "date": "09 Dec",
+      "dateFull": "2025-12-09",
+      "winner": "NYK"
+    }
+  ],
+  "lastUpdate": "2025-12-15T17:13:43.350895"
+}

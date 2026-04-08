@@ -1,0 +1,1891 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "hamzah@gmail.com",
+      "username": "Hamza",
+      "password_hash": "pbkdf2:sha256:100000$c48fa129aa534514ee0d50a1fb87df9d$4ddef68262dec8eccba0763c04bd2f3af55738fa9fcc755743fe3aeccaf3679b",
+      "created_at": "2025-12-12T14:39:02.976915"
+    },
+    {
+      "id": 2,
+      "email": "haza@gmail.com",
+      "username": "Haza",
+      "password_hash": "pbkdf2:sha256:100000$fec2d68de21cca8fc84d5ff148f39b11$7314ba4598d4d998846640dfe27c5ab486060942c9dff0364cf487817eb2424d",
+      "created_at": "2025-12-12T14:40:28.722887",
+      "history": [
+        {
+          "matchId": "BKN-DAL-1765559962074343000",
+          "teamA": {
+            "id": "3",
+            "name": "Brooklyn Nets",
+            "abbr": "BKN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg",
+            "color": "#000000"
+          },
+          "teamB": {
+            "id": "7",
+            "name": "Dallas Mavericks",
+            "abbr": "DAL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg",
+            "color": "#00538C"
+          },
+          "winner": "DAL",
+          "confidence": 80.5,
+          "scoreA": 119,
+          "scoreB": 124,
+          "totalPoints": 242.8,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 119.0,
+            "reb": 45.0,
+            "ast": 36.0,
+            "fg_pct": 52.800000000000004,
+            "fg3_pct": 40.0,
+            "plus_minus": 18.0
+          },
+          "statsB": {
+            "pts": 122.0,
+            "reb": 31.0,
+            "ast": 22.0,
+            "fg_pct": 59.8,
+            "fg3_pct": 36.8,
+            "plus_minus": 13.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": [
+              {
+                "id": 471,
+                "name": "Daniel Gafford",
+                "status": "OUT",
+                "pts_avg": 8.9
+              },
+              {
+                "id": 716,
+                "name": "Dereck Lively II",
+                "status": "OUT",
+                "pts_avg": 4.3
+              }
+            ]
+          },
+          "impactA": 0.0,
+          "impactB": 0.2,
+          "timestamp": "2025-12-12T17:19:22.074360"
+        },
+        {
+          "matchId": "NYK-ORL-1765559753038780000",
+          "teamA": {
+            "id": "20",
+            "name": "New York Knicks",
+            "abbr": "NYK",
+            "logo": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg",
+            "color": "#006BB6"
+          },
+          "teamB": {
+            "id": "22",
+            "name": "Orlando Magic",
+            "abbr": "ORL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg",
+            "color": "#0077C0"
+          },
+          "winner": "ORL",
+          "confidence": 68.3,
+          "scoreA": 117,
+          "scoreB": 118,
+          "totalPoints": 235.6,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 117.0,
+            "reb": 48.0,
+            "ast": 19.0,
+            "fg_pct": 52.5,
+            "fg3_pct": 45.7,
+            "plus_minus": 16.0
+          },
+          "statsB": {
+            "pts": 117.0,
+            "reb": 47.0,
+            "ast": 30.0,
+            "fg_pct": 50.6,
+            "fg3_pct": 46.9,
+            "plus_minus": 9.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-12T17:15:53.038797"
+        },
+        {
+          "matchId": "BKN-DAL-1765558894245582000",
+          "teamA": {
+            "id": "3",
+            "name": "Brooklyn Nets",
+            "abbr": "BKN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg",
+            "color": "#000000"
+          },
+          "teamB": {
+            "id": "7",
+            "name": "Dallas Mavericks",
+            "abbr": "DAL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg",
+            "color": "#00538C"
+          },
+          "winner": "DAL",
+          "confidence": 80.5,
+          "scoreA": 119,
+          "scoreB": 124,
+          "totalPoints": 242.8,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 119.0,
+            "reb": 45.0,
+            "ast": 36.0,
+            "fg_pct": 52.800000000000004,
+            "fg3_pct": 40.0,
+            "plus_minus": 18.0
+          },
+          "statsB": {
+            "pts": 122.0,
+            "reb": 31.0,
+            "ast": 22.0,
+            "fg_pct": 59.8,
+            "fg3_pct": 36.8,
+            "plus_minus": 13.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": [
+              {
+                "id": 471,
+                "name": "Daniel Gafford",
+                "status": "OUT",
+                "pts_avg": 8.9
+              },
+              {
+                "id": 716,
+                "name": "Dereck Lively II",
+                "status": "OUT",
+                "pts_avg": 4.3
+              }
+            ]
+          },
+          "impactA": 0.0,
+          "impactB": 0.2,
+          "timestamp": "2025-12-12T17:01:34.245598"
+        },
+        {
+          "matchId": "CHI-CHA-1765558859309055000",
+          "teamA": {
+            "id": "5",
+            "name": "Chicago Bulls",
+            "abbr": "CHI",
+            "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "teamB": {
+            "id": "4",
+            "name": "Charlotte Hornets",
+            "abbr": "CHA",
+            "logo": "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg",
+            "color": "#1D1160"
+          },
+          "winner": "CHA",
+          "confidence": 85.3,
+          "scoreA": 91,
+          "scoreB": 106,
+          "totalPoints": 196.5,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 91.0,
+            "reb": 38.0,
+            "ast": 24.0,
+            "fg_pct": 36.0,
+            "fg3_pct": 27.500000000000004,
+            "plus_minus": -32.0
+          },
+          "statsB": {
+            "pts": 106.0,
+            "reb": 47.0,
+            "ast": 24.0,
+            "fg_pct": 44.7,
+            "fg3_pct": 30.4,
+            "plus_minus": -9.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 710,
+                "name": "Ayo Dosunmu",
+                "status": "OUT",
+                "pts_avg": 15.8
+              },
+              {
+                "id": 482,
+                "name": "Isaac Okoro",
+                "status": "OUT",
+                "pts_avg": 8.2
+              },
+              {
+                "id": 446,
+                "name": "Kevin Huerter",
+                "status": "OUT",
+                "pts_avg": 11.9
+              },
+              {
+                "id": 713,
+                "name": "Noa Essengue",
+                "status": "OUT",
+                "pts_avg": 0.0
+              },
+              {
+                "id": 485,
+                "name": "Zach Collins",
+                "status": "OUT",
+                "pts_avg": 8.0
+              }
+            ],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-12T17:00:59.309069"
+        },
+        {
+          "matchId": "ATL-BOS-1765558842317710000",
+          "teamA": {
+            "id": "1",
+            "name": "Atlanta Hawks",
+            "abbr": "ATL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg",
+            "color": "#E03A3E"
+          },
+          "teamB": {
+            "id": "2",
+            "name": "Boston Celtics",
+            "abbr": "BOS",
+            "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg",
+            "color": "#007A33"
+          },
+          "winner": "ATL",
+          "confidence": 94.4,
+          "scoreA": 130,
+          "scoreB": 100,
+          "totalPoints": 229.8,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 131.0,
+            "reb": 45.0,
+            "ast": 36.0,
+            "fg_pct": 53.1,
+            "fg3_pct": 33.300000000000004,
+            "plus_minus": 15.0
+          },
+          "statsB": {
+            "pts": 101.0,
+            "reb": 39.0,
+            "ast": 18.0,
+            "fg_pct": 38.6,
+            "fg3_pct": 28.599999999999998,
+            "plus_minus": -15.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": [
+              {
+                "id": 120,
+                "name": "Derrick White",
+                "status": "OUT",
+                "pts_avg": 17.0
+              }
+            ]
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-12T17:00:42.317754"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "email": "alabbashusamuldeen@gmail.com",
+      "username": "abbas.alj",
+      "password_hash": "pbkdf2:sha256:100000$0ca96e3743c246b9380eee213cfae6e4$6e8daa191a4475090bc3cb885fa47adc4b3eb2d3f588afc0c92c0896cad7d76a",
+      "created_at": "2025-12-12T17:42:44.038628",
+      "history": [
+        {
+          "matchId": "MIN-GSW-1765561419686259000",
+          "teamA": {
+            "id": "18",
+            "name": "Minnesota Timberwolves",
+            "abbr": "MIN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "teamB": {
+            "id": "10",
+            "name": "Golden State Warriors",
+            "abbr": "GSW",
+            "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+            "color": "#1D428A"
+          },
+          "winner": "GSW",
+          "confidence": 90.4,
+          "scoreA": 105,
+          "scoreB": 123,
+          "totalPoints": 228.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 105.0,
+            "reb": 46.0,
+            "ast": 26.0,
+            "fg_pct": 47.0,
+            "fg3_pct": 26.200000000000003,
+            "plus_minus": -3.0
+          },
+          "statsB": {
+            "pts": 123.0,
+            "reb": 51.0,
+            "ast": 27.0,
+            "fg_pct": 50.0,
+            "fg3_pct": 46.800000000000004,
+            "plus_minus": 32.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-12T17:43:39.686276"
+        },
+        {
+          "matchId": "MIN-GSW-1765561383433343000",
+          "teamA": {
+            "id": "18",
+            "name": "Minnesota Timberwolves",
+            "abbr": "MIN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "teamB": {
+            "id": "10",
+            "name": "Golden State Warriors",
+            "abbr": "GSW",
+            "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+            "color": "#1D428A"
+          },
+          "winner": "GSW",
+          "confidence": 90.4,
+          "scoreA": 105,
+          "scoreB": 123,
+          "totalPoints": 228.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 105.0,
+            "reb": 46.0,
+            "ast": 26.0,
+            "fg_pct": 47.0,
+            "fg3_pct": 26.200000000000003,
+            "plus_minus": -3.0
+          },
+          "statsB": {
+            "pts": 123.0,
+            "reb": 51.0,
+            "ast": 27.0,
+            "fg_pct": 50.0,
+            "fg3_pct": 46.800000000000004,
+            "plus_minus": 32.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-12T17:43:03.433364"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "email": "miguelsaad6@gmail.com",
+      "username": "saadmiguel",
+      "password_hash": "pbkdf2:sha256:100000$d38b43e7eca9b78208606e54910482c6$83bac8b4af824e6fe49e7917ddf7542062d00c59bc5143e2829af97b8f069ca3",
+      "created_at": "2025-12-14T13:55:05.663626",
+      "history": [
+        {
+          "matchId": "DET-BOS-1765795407450038000",
+          "teamA": {
+            "id": "9",
+            "name": "Detroit Pistons",
+            "abbr": "DET",
+            "logo": "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg",
+            "color": "#C8102E"
+          },
+          "teamB": {
+            "id": "2",
+            "name": "Boston Celtics",
+            "abbr": "BOS",
+            "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg",
+            "color": "#007A33"
+          },
+          "winner": "DET",
+          "confidence": 67.3,
+          "scoreA": 141,
+          "scoreB": 100,
+          "totalPoints": 241.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 142.0,
+            "reb": 40.0,
+            "ast": 34.0,
+            "fg_pct": 58.199999999999996,
+            "fg3_pct": 41.4,
+            "plus_minus": 27.0
+          },
+          "statsB": {
+            "pts": 101.0,
+            "reb": 39.0,
+            "ast": 18.0,
+            "fg_pct": 38.6,
+            "fg3_pct": 28.599999999999998,
+            "plus_minus": -15.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T10:43:27.450093",
+          "isOffSchedule": false
+        },
+        {
+          "matchId": "GSW-DEN-1765820282593381000",
+          "teamA": {
+            "id": "10",
+            "name": "Golden State Warriors",
+            "abbr": "GSW",
+            "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+            "color": "#1D428A"
+          },
+          "teamB": {
+            "id": "8",
+            "name": "Denver Nuggets",
+            "abbr": "DEN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+            "color": "#0E2240"
+          },
+          "winner": "DEN",
+          "confidence": 96.7,
+          "scoreA": 130,
+          "scoreB": 136,
+          "totalPoints": 265.3,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 131.0,
+            "reb": 36.0,
+            "ast": 34.0,
+            "fg_pct": 50.6,
+            "fg3_pct": 51.1,
+            "plus_minus": -5.0
+          },
+          "statsB": {
+            "pts": 136.0,
+            "reb": 46.0,
+            "ast": 35.0,
+            "fg_pct": 59.099999999999994,
+            "fg3_pct": 41.4,
+            "plus_minus": 31.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T17:38:02.593413",
+          "isOffSchedule": true
+        },
+        {
+          "matchId": "SAS-NYK-1765820246093354000",
+          "teamA": {
+            "id": "27",
+            "name": "San Antonio Spurs",
+            "abbr": "SAS",
+            "logo": "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg",
+            "color": "#C4CED4"
+          },
+          "teamB": {
+            "id": "20",
+            "name": "New York Knicks",
+            "abbr": "NYK",
+            "logo": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg",
+            "color": "#006BB6"
+          },
+          "winner": "NYK",
+          "confidence": 92.8,
+          "scoreA": 110,
+          "scoreB": 133,
+          "totalPoints": 243.5,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 111.0,
+            "reb": 52.0,
+            "ast": 21.0,
+            "fg_pct": 41.099999999999994,
+            "fg3_pct": 31.0,
+            "plus_minus": 2.0
+          },
+          "statsB": {
+            "pts": 132.0,
+            "reb": 41.0,
+            "ast": 28.0,
+            "fg_pct": 60.699999999999996,
+            "fg3_pct": 35.0,
+            "plus_minus": 12.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 695,
+                "name": "David Jones Garc\u00c3\u00ada",
+                "status": "OUT",
+                "pts_avg": 3.2
+              }
+            ],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T17:37:26.095359",
+          "isOffSchedule": true
+        },
+        {
+          "matchId": "IND-DEN-1765809309097582000",
+          "teamA": {
+            "id": "12",
+            "name": "Indiana Pacers",
+            "abbr": "IND",
+            "logo": "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg",
+            "color": "#002D62"
+          },
+          "teamB": {
+            "id": "8",
+            "name": "Denver Nuggets",
+            "abbr": "DEN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+            "color": "#0E2240"
+          },
+          "winner": "DEN",
+          "confidence": 76.8,
+          "scoreA": 90,
+          "scoreB": 136,
+          "totalPoints": 225.2,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 89.0,
+            "reb": 41.0,
+            "ast": 20.0,
+            "fg_pct": 36.9,
+            "fg3_pct": 25.6,
+            "plus_minus": -19.0
+          },
+          "statsB": {
+            "pts": 136.0,
+            "reb": 46.0,
+            "ast": 35.0,
+            "fg_pct": 59.099999999999994,
+            "fg3_pct": 41.4,
+            "plus_minus": 31.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T14:35:09.099369",
+          "isOffSchedule": true
+        },
+        {
+          "matchId": "CHI-DEN-1765796165511741000",
+          "teamA": {
+            "id": "5",
+            "name": "Chicago Bulls",
+            "abbr": "CHI",
+            "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "teamB": {
+            "id": "8",
+            "name": "Denver Nuggets",
+            "abbr": "DEN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+            "color": "#0E2240"
+          },
+          "winner": "DEN",
+          "confidence": 93.1,
+          "scoreA": 104,
+          "scoreB": 136,
+          "totalPoints": 239.7,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 104.0,
+            "reb": 43.0,
+            "ast": 26.0,
+            "fg_pct": 41.3,
+            "fg3_pct": 26.5,
+            "plus_minus": -10.0
+          },
+          "statsB": {
+            "pts": 136.0,
+            "reb": 46.0,
+            "ast": 35.0,
+            "fg_pct": 59.099999999999994,
+            "fg3_pct": 41.4,
+            "plus_minus": 31.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T10:56:05.512062",
+          "isOffSchedule": true
+        },
+        {
+          "matchId": "MEM-LAC-1765795479600759000",
+          "teamA": {
+            "id": "15",
+            "name": "Memphis Grizzlies",
+            "abbr": "MEM",
+            "logo": "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg",
+            "color": "#5D76A9"
+          },
+          "teamB": {
+            "id": "13",
+            "name": "LA Clippers",
+            "abbr": "LAC",
+            "logo": "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg",
+            "color": "#C8102E"
+          },
+          "winner": "MEM",
+          "confidence": 84.0,
+          "scoreA": 125,
+          "scoreB": 94,
+          "totalPoints": 219.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Neutral"
+          },
+          "statsA": {
+            "pts": 126.0,
+            "reb": 49.0,
+            "ast": 32.0,
+            "fg_pct": 46.5,
+            "fg3_pct": 46.300000000000004,
+            "plus_minus": -4.0
+          },
+          "statsB": {
+            "pts": 113.0,
+            "reb": 28.0,
+            "ast": 25.0,
+            "fg_pct": 50.0,
+            "fg3_pct": 36.8,
+            "plus_minus": -2.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 565,
+                "name": "Javon Small",
+                "status": "OUT",
+                "pts_avg": 4.3
+              },
+              {
+                "id": 354,
+                "name": "Zach Edey",
+                "status": "OUT",
+                "pts_avg": 13.8
+              },
+              {
+                "id": 599,
+                "name": "John Konchar",
+                "status": "OUT",
+                "pts_avg": 3.1
+              }
+            ],
+            "teamB": [
+              {
+                "id": 694,
+                "name": "Bradley Beal",
+                "status": "OUT",
+                "pts_avg": 8.2
+              },
+              {
+                "id": 215,
+                "name": "Chris Paul",
+                "status": "OUT",
+                "pts_avg": 2.9
+              },
+              {
+                "id": 265,
+                "name": "James Harden",
+                "status": "OUT",
+                "pts_avg": 26.5
+              },
+              {
+                "id": 559,
+                "name": "Nicolas Batum",
+                "status": "OUT",
+                "pts_avg": 4.5
+              }
+            ]
+          },
+          "impactA": 1.8,
+          "impactB": 18.8,
+          "timestamp": "2025-12-15T10:44:39.600857",
+          "isOffSchedule": false
+        },
+        {
+          "matchId": "HOU-DEN-1765795436330008000",
+          "teamA": {
+            "id": "11",
+            "name": "Houston Rockets",
+            "abbr": "HOU",
+            "logo": "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "teamB": {
+            "id": "8",
+            "name": "Denver Nuggets",
+            "abbr": "DEN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+            "color": "#0E2240"
+          },
+          "winner": "DEN",
+          "confidence": 93.2,
+          "scoreA": 110,
+          "scoreB": 127,
+          "totalPoints": 237.3,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 115.0,
+            "reb": 51.0,
+            "ast": 26.0,
+            "fg_pct": 46.2,
+            "fg3_pct": 35.3,
+            "plus_minus": 2.0
+          },
+          "statsB": {
+            "pts": 136.0,
+            "reb": 46.0,
+            "ast": 35.0,
+            "fg_pct": 59.099999999999994,
+            "fg3_pct": 41.4,
+            "plus_minus": 31.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 345,
+                "name": "Tari Eason",
+                "status": "OUT",
+                "pts_avg": 11.5
+              }
+            ],
+            "teamB": [
+              {
+                "id": 412,
+                "name": "Aaron Gordon",
+                "status": "OUT",
+                "pts_avg": 18.8
+              },
+              {
+                "id": 696,
+                "name": "Christian Braun",
+                "status": "OUT",
+                "pts_avg": 11.4
+              },
+              {
+                "id": 584,
+                "name": "Julian Strawther",
+                "status": "OUT",
+                "pts_avg": 3.7
+              }
+            ]
+          },
+          "impactA": 5.0,
+          "impactB": 8.5,
+          "timestamp": "2025-12-15T10:43:56.330069",
+          "isOffSchedule": false
+        },
+        {
+          "matchId": "DET-BOS-1765795407450038000",
+          "teamA": {
+            "id": "9",
+            "name": "Detroit Pistons",
+            "abbr": "DET",
+            "logo": "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg",
+            "color": "#C8102E"
+          },
+          "teamB": {
+            "id": "2",
+            "name": "Boston Celtics",
+            "abbr": "BOS",
+            "logo": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg",
+            "color": "#007A33"
+          },
+          "winner": "DET",
+          "confidence": 67.3,
+          "scoreA": 141,
+          "scoreB": 100,
+          "totalPoints": 241.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 142.0,
+            "reb": 40.0,
+            "ast": 34.0,
+            "fg_pct": 58.199999999999996,
+            "fg3_pct": 41.4,
+            "plus_minus": 27.0
+          },
+          "statsB": {
+            "pts": 101.0,
+            "reb": 39.0,
+            "ast": 18.0,
+            "fg_pct": 38.6,
+            "fg3_pct": 28.599999999999998,
+            "plus_minus": -15.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T10:43:27.450093",
+          "isOffSchedule": false
+        },
+        {
+          "matchId": "TOR-MIA-1765795379915436000",
+          "teamA": {
+            "id": "28",
+            "name": "Toronto Raptors",
+            "abbr": "TOR",
+            "logo": "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "teamB": {
+            "id": "16",
+            "name": "Miami Heat",
+            "abbr": "MIA",
+            "logo": "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg",
+            "color": "#98002E"
+          },
+          "winner": "MIA",
+          "confidence": 90.3,
+          "scoreA": 82,
+          "scoreB": 103,
+          "totalPoints": 184.7,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 101.0,
+            "reb": 37.0,
+            "ast": 28.0,
+            "fg_pct": 43.3,
+            "fg3_pct": 28.9,
+            "plus_minus": -16.0
+          },
+          "statsB": {
+            "pts": 108.0,
+            "reb": 39.0,
+            "ast": 25.0,
+            "fg_pct": 45.2,
+            "fg3_pct": 24.2,
+            "plus_minus": -9.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 164,
+                "name": "RJ Barrett",
+                "status": "OUT",
+                "pts_avg": 19.4
+              },
+              {
+                "id": 575,
+                "name": "Jamison Battle",
+                "status": "OUT",
+                "pts_avg": 3.9
+              }
+            ],
+            "teamB": [
+              {
+                "id": 681,
+                "name": "Kasparas Jakucionis",
+                "status": "OUT",
+                "pts_avg": 0.0
+              },
+              {
+                "id": 369,
+                "name": "Pelle Larsson",
+                "status": "OUT",
+                "pts_avg": 9.0
+              }
+            ]
+          },
+          "impactA": 19.9,
+          "impactB": 5.5,
+          "timestamp": "2025-12-15T10:42:59.915514",
+          "isOffSchedule": false
+        },
+        {
+          "matchId": "DAL-UTA-1765795195962461000",
+          "teamA": {
+            "id": "7",
+            "name": "Dallas Mavericks",
+            "abbr": "DAL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg",
+            "color": "#00538C"
+          },
+          "teamB": {
+            "id": "29",
+            "name": "Utah Jazz",
+            "abbr": "UTA",
+            "logo": "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg",
+            "color": "#002B5C"
+          },
+          "winner": "UTA",
+          "confidence": 84.3,
+          "scoreA": 119,
+          "scoreB": 132,
+          "totalPoints": 250.6,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 119.0,
+            "reb": 40.0,
+            "ast": 33.0,
+            "fg_pct": 48.9,
+            "fg3_pct": 33.300000000000004,
+            "plus_minus": 8.0
+          },
+          "statsB": {
+            "pts": 130.0,
+            "reb": 58.0,
+            "ast": 33.0,
+            "fg_pct": 46.2,
+            "fg3_pct": 36.199999999999996,
+            "plus_minus": 4.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-15T10:39:55.962675",
+          "isOffSchedule": true
+        },
+        {
+          "matchId": "NOP-CHI-1765720952815654000",
+          "teamA": {
+            "id": "19",
+            "name": "New Orleans Pelicans",
+            "abbr": "NOP",
+            "logo": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "teamB": {
+            "id": "5",
+            "name": "Chicago Bulls",
+            "abbr": "CHI",
+            "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "winner": "NOP",
+          "confidence": 98.6,
+          "scoreA": 142,
+          "scoreB": 128,
+          "totalPoints": 270.1,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 143.0,
+            "reb": 57.0,
+            "ast": 36.0,
+            "fg_pct": 51.800000000000004,
+            "fg3_pct": 37.5,
+            "plus_minus": 23.0
+          },
+          "statsB": {
+            "pts": 129.0,
+            "reb": 44.0,
+            "ast": 29.0,
+            "fg_pct": 55.300000000000004,
+            "fg3_pct": 35.699999999999996,
+            "plus_minus": 3.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T14:02:32.815692"
+        },
+        {
+          "matchId": "SAC-MIN-1765720623762253000",
+          "teamA": {
+            "id": "26",
+            "name": "Sacramento Kings",
+            "abbr": "SAC",
+            "logo": "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg",
+            "color": "#5A2D81"
+          },
+          "teamB": {
+            "id": "18",
+            "name": "Minnesota Timberwolves",
+            "abbr": "MIN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "winner": "MIN",
+          "confidence": 53.7,
+          "scoreA": 104,
+          "scoreB": 127,
+          "totalPoints": 231.4,
+          "bettingAnalysis": {
+            "riskLevel": "Very Risky",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 105.0,
+            "reb": 38.0,
+            "ast": 21.0,
+            "fg_pct": 44.800000000000004,
+            "fg3_pct": 28.9,
+            "plus_minus": -31.0
+          },
+          "statsB": {
+            "pts": 127.0,
+            "reb": 44.0,
+            "ast": 30.0,
+            "fg_pct": 53.900000000000006,
+            "fg3_pct": 35.5,
+            "plus_minus": 7.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 400,
+                "name": "Domantas Sabonis",
+                "status": "OUT",
+                "pts_avg": 17.2
+              },
+              {
+                "id": 362,
+                "name": "Drew Eubanks",
+                "status": "OUT",
+                "pts_avg": 5.7
+              },
+              {
+                "id": 542,
+                "name": "Keon Ellis",
+                "status": "OUT",
+                "pts_avg": 5.4
+              }
+            ],
+            "teamB": [
+              {
+                "id": 687,
+                "name": "Anthony Edwards",
+                "status": "OUT",
+                "pts_avg": 28.8
+              },
+              {
+                "id": 539,
+                "name": "Mike Conley",
+                "status": "OUT",
+                "pts_avg": 5.5
+              },
+              {
+                "id": 586,
+                "name": "Bones Hyland",
+                "status": "OUT",
+                "pts_avg": 3.6
+              }
+            ]
+          },
+          "impactA": 0.8,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T13:57:03.762297"
+        },
+        {
+          "matchId": "MIL-BKN-1765752271501039000",
+          "teamA": {
+            "id": "17",
+            "name": "Milwaukee Bucks",
+            "abbr": "MIL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg",
+            "color": "#00471B"
+          },
+          "teamB": {
+            "id": "3",
+            "name": "Brooklyn Nets",
+            "abbr": "BKN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg",
+            "color": "#000000"
+          },
+          "winner": "BKN",
+          "confidence": 86.8,
+          "scoreA": 96,
+          "scoreB": 111,
+          "totalPoints": 207.4,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 116.0,
+            "reb": 40.0,
+            "ast": 28.0,
+            "fg_pct": 58.199999999999996,
+            "fg3_pct": 44.800000000000004,
+            "plus_minus": 15.0
+          },
+          "statsB": {
+            "pts": 111.0,
+            "reb": 43.0,
+            "ast": 26.0,
+            "fg_pct": 45.300000000000004,
+            "fg3_pct": 43.6,
+            "plus_minus": -8.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 382,
+                "name": "A.J. Green",
+                "status": "OUT",
+                "pts_avg": 11.3
+              },
+              {
+                "id": 380,
+                "name": "Giannis Antetokounmpo",
+                "status": "OUT",
+                "pts_avg": 28.9
+              },
+              {
+                "id": 381,
+                "name": "Taurean Prince",
+                "status": "OUT",
+                "pts_avg": 6.1
+              }
+            ],
+            "teamB": []
+          },
+          "impactA": 19.8,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T22:44:31.501078"
+        },
+        {
+          "matchId": "PHI-ATL-1765752241297305000",
+          "teamA": {
+            "id": "23",
+            "name": "Philadelphia 76ers",
+            "abbr": "PHI",
+            "logo": "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg",
+            "color": "#006BB6"
+          },
+          "teamB": {
+            "id": "1",
+            "name": "Atlanta Hawks",
+            "abbr": "ATL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg",
+            "color": "#E03A3E"
+          },
+          "winner": "ATL",
+          "confidence": 88.5,
+          "scoreA": 81,
+          "scoreB": 109,
+          "totalPoints": 190.1,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 115.0,
+            "reb": 50.0,
+            "ast": 22.0,
+            "fg_pct": 44.3,
+            "fg3_pct": 32.4,
+            "plus_minus": 10.0
+          },
+          "statsB": {
+            "pts": 115.0,
+            "reb": 37.0,
+            "ast": 28.0,
+            "fg_pct": 45.9,
+            "fg3_pct": 30.599999999999998,
+            "plus_minus": -27.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 272,
+                "name": "Joel Embiid",
+                "status": "OUT",
+                "pts_avg": 18.5
+              },
+              {
+                "id": 734,
+                "name": "Kelly Oubre Jr.",
+                "status": "OUT",
+                "pts_avg": 16.8
+              },
+              {
+                "id": 735,
+                "name": "Trendon Watford",
+                "status": "OUT",
+                "pts_avg": 8.9
+              },
+              {
+                "id": 179,
+                "name": "Tyrese Maxey",
+                "status": "OUT",
+                "pts_avg": 31.6
+              }
+            ],
+            "teamB": [
+              {
+                "id": 387,
+                "name": "Jacob Toppin",
+                "status": "OUT",
+                "pts_avg": 1.6
+              },
+              {
+                "id": 347,
+                "name": "Trae Young",
+                "status": "OUT",
+                "pts_avg": 17.8
+              },
+              {
+                "id": 389,
+                "name": "N'Faly Dante",
+                "status": "OUT",
+                "pts_avg": 0.8
+              }
+            ]
+          },
+          "impactA": 34.3,
+          "impactB": 7.1,
+          "timestamp": "2025-12-14T22:44:01.297374"
+        },
+        {
+          "matchId": "CHA-CLE-1765752085638082000",
+          "teamA": {
+            "id": "4",
+            "name": "Charlotte Hornets",
+            "abbr": "CHA",
+            "logo": "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg",
+            "color": "#1D1160"
+          },
+          "teamB": {
+            "id": "6",
+            "name": "Cleveland Cavaliers",
+            "abbr": "CLE",
+            "logo": "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg",
+            "color": "#860038"
+          },
+          "winner": "CHA",
+          "confidence": 59.2,
+          "scoreA": 126,
+          "scoreB": 112,
+          "totalPoints": 238.5,
+          "bettingAnalysis": {
+            "riskLevel": "Risky",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 126.0,
+            "reb": 32.0,
+            "ast": 30.0,
+            "fg_pct": 52.6,
+            "fg3_pct": 43.2,
+            "plus_minus": -3.0
+          },
+          "statsB": {
+            "pts": 130.0,
+            "reb": 48.0,
+            "ast": 28.0,
+            "fg_pct": 42.3,
+            "fg3_pct": 28.299999999999997,
+            "plus_minus": 4.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": [
+              {
+                "id": 729,
+                "name": "Larry Nance Jr.",
+                "status": "OUT",
+                "pts_avg": 3.6
+              },
+              {
+                "id": 730,
+                "name": "Sam Merrill",
+                "status": "OUT",
+                "pts_avg": 13.9
+              },
+              {
+                "id": 237,
+                "name": "Evan Mobley",
+                "status": "OUT",
+                "pts_avg": 19.0
+              }
+            ]
+          },
+          "impactA": 0.0,
+          "impactB": 17.0,
+          "timestamp": "2025-12-14T22:41:25.639592"
+        },
+        {
+          "matchId": "NOP-CHI-1765720952815654000",
+          "teamA": {
+            "id": "19",
+            "name": "New Orleans Pelicans",
+            "abbr": "NOP",
+            "logo": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "teamB": {
+            "id": "5",
+            "name": "Chicago Bulls",
+            "abbr": "CHI",
+            "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "winner": "NOP",
+          "confidence": 98.6,
+          "scoreA": 142,
+          "scoreB": 128,
+          "totalPoints": 270.1,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 143.0,
+            "reb": 57.0,
+            "ast": 36.0,
+            "fg_pct": 51.800000000000004,
+            "fg3_pct": 37.5,
+            "plus_minus": 23.0
+          },
+          "statsB": {
+            "pts": 129.0,
+            "reb": 44.0,
+            "ast": 29.0,
+            "fg_pct": 55.300000000000004,
+            "fg3_pct": 35.699999999999996,
+            "plus_minus": 3.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T14:02:32.815692"
+        },
+        {
+          "matchId": "LAL-PHX-1765720566483735000",
+          "teamA": {
+            "id": "14",
+            "name": "Los Angeles Lakers",
+            "abbr": "LAL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg",
+            "color": "#552583"
+          },
+          "teamB": {
+            "id": "24",
+            "name": "Phoenix Suns",
+            "abbr": "PHX",
+            "logo": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg",
+            "color": "#1D1160"
+          },
+          "winner": "LAL",
+          "confidence": 99.0,
+          "scoreA": 103,
+          "scoreB": 89,
+          "totalPoints": 192.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 119.0,
+            "reb": 43.0,
+            "ast": 27.0,
+            "fg_pct": 49.4,
+            "fg3_pct": 43.2,
+            "plus_minus": -13.0
+          },
+          "statsB": {
+            "pts": 89.0,
+            "reb": 37.0,
+            "ast": 24.0,
+            "fg_pct": 39.300000000000004,
+            "fg3_pct": 32.300000000000004,
+            "plus_minus": -49.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 106,
+                "name": "Austin Reaves",
+                "status": "OUT",
+                "pts_avg": 29.3
+              },
+              {
+                "id": 644,
+                "name": "Maxi Kleber",
+                "status": "OUT",
+                "pts_avg": 1.8
+              }
+            ],
+            "teamB": []
+          },
+          "impactA": 15.4,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T13:56:06.483793"
+        },
+        {
+          "matchId": "NOP-CHI-1765720952815654000",
+          "teamA": {
+            "id": "19",
+            "name": "New Orleans Pelicans",
+            "abbr": "NOP",
+            "logo": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "teamB": {
+            "id": "5",
+            "name": "Chicago Bulls",
+            "abbr": "CHI",
+            "logo": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+            "color": "#CE1141"
+          },
+          "winner": "NOP",
+          "confidence": 98.6,
+          "scoreA": 142,
+          "scoreB": 128,
+          "totalPoints": 270.1,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 143.0,
+            "reb": 57.0,
+            "ast": 36.0,
+            "fg_pct": 51.800000000000004,
+            "fg3_pct": 37.5,
+            "plus_minus": 23.0
+          },
+          "statsB": {
+            "pts": 129.0,
+            "reb": 44.0,
+            "ast": 29.0,
+            "fg_pct": 55.300000000000004,
+            "fg3_pct": 35.699999999999996,
+            "plus_minus": 3.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T14:02:32.815692"
+        },
+        {
+          "matchId": "SAC-MIN-1765720623762253000",
+          "teamA": {
+            "id": "26",
+            "name": "Sacramento Kings",
+            "abbr": "SAC",
+            "logo": "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg",
+            "color": "#5A2D81"
+          },
+          "teamB": {
+            "id": "18",
+            "name": "Minnesota Timberwolves",
+            "abbr": "MIN",
+            "logo": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+            "color": "#0C2340"
+          },
+          "winner": "MIN",
+          "confidence": 53.7,
+          "scoreA": 104,
+          "scoreB": 127,
+          "totalPoints": 231.4,
+          "bettingAnalysis": {
+            "riskLevel": "Very Risky",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 105.0,
+            "reb": 38.0,
+            "ast": 21.0,
+            "fg_pct": 44.800000000000004,
+            "fg3_pct": 28.9,
+            "plus_minus": -31.0
+          },
+          "statsB": {
+            "pts": 127.0,
+            "reb": 44.0,
+            "ast": 30.0,
+            "fg_pct": 53.900000000000006,
+            "fg3_pct": 35.5,
+            "plus_minus": 7.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 400,
+                "name": "Domantas Sabonis",
+                "status": "OUT",
+                "pts_avg": 17.2
+              },
+              {
+                "id": 362,
+                "name": "Drew Eubanks",
+                "status": "OUT",
+                "pts_avg": 5.7
+              },
+              {
+                "id": 542,
+                "name": "Keon Ellis",
+                "status": "OUT",
+                "pts_avg": 5.4
+              }
+            ],
+            "teamB": [
+              {
+                "id": 687,
+                "name": "Anthony Edwards",
+                "status": "OUT",
+                "pts_avg": 28.8
+              },
+              {
+                "id": 539,
+                "name": "Mike Conley",
+                "status": "OUT",
+                "pts_avg": 5.5
+              },
+              {
+                "id": 586,
+                "name": "Bones Hyland",
+                "status": "OUT",
+                "pts_avg": 3.6
+              }
+            ]
+          },
+          "impactA": 0.8,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T13:57:03.762297"
+        },
+        {
+          "matchId": "LAL-PHX-1765720566483735000",
+          "teamA": {
+            "id": "14",
+            "name": "Los Angeles Lakers",
+            "abbr": "LAL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg",
+            "color": "#552583"
+          },
+          "teamB": {
+            "id": "24",
+            "name": "Phoenix Suns",
+            "abbr": "PHX",
+            "logo": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg",
+            "color": "#1D1160"
+          },
+          "winner": "LAL",
+          "confidence": 99.0,
+          "scoreA": 103,
+          "scoreB": 89,
+          "totalPoints": 192.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 119.0,
+            "reb": 43.0,
+            "ast": 27.0,
+            "fg_pct": 49.4,
+            "fg3_pct": 43.2,
+            "plus_minus": -13.0
+          },
+          "statsB": {
+            "pts": 89.0,
+            "reb": 37.0,
+            "ast": 24.0,
+            "fg_pct": 39.300000000000004,
+            "fg3_pct": 32.300000000000004,
+            "plus_minus": -49.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 106,
+                "name": "Austin Reaves",
+                "status": "OUT",
+                "pts_avg": 29.3
+              },
+              {
+                "id": 644,
+                "name": "Maxi Kleber",
+                "status": "OUT",
+                "pts_avg": 1.8
+              }
+            ],
+            "teamB": []
+          },
+          "impactA": 15.4,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T13:56:06.483793"
+        },
+        {
+          "matchId": "WAS-IND-1765720522311793000",
+          "teamA": {
+            "id": "30",
+            "name": "Washington Wizards",
+            "abbr": "WAS",
+            "logo": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg",
+            "color": "#002B5C"
+          },
+          "teamB": {
+            "id": "12",
+            "name": "Indiana Pacers",
+            "abbr": "IND",
+            "logo": "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg",
+            "color": "#002D62"
+          },
+          "winner": "WAS",
+          "confidence": 98.9,
+          "scoreA": 126,
+          "scoreB": 105,
+          "totalPoints": 231.1,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 126.0,
+            "reb": 49.0,
+            "ast": 29.0,
+            "fg_pct": 48.8,
+            "fg3_pct": 36.4,
+            "plus_minus": -4.0
+          },
+          "statsB": {
+            "pts": 105.0,
+            "reb": 46.0,
+            "ast": 26.0,
+            "fg_pct": 39.6,
+            "fg3_pct": 34.2,
+            "plus_minus": -10.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T13:55:22.311945"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "email": "nassermsd26@gmail.com",
+      "username": "nasser",
+      "password_hash": "pbkdf2:sha256:100000$fd9da483852389e7ef5202326f4fc6be$5711b9515d56b2b0e1c8f5b0365b30c90a357d8619018a2c28afc7798b4066e8",
+      "created_at": "2025-12-14T14:20:58.766446",
+      "history": [
+        {
+          "matchId": "LAL-PHX-1765720566483735000",
+          "teamA": {
+            "id": "14",
+            "name": "Los Angeles Lakers",
+            "abbr": "LAL",
+            "logo": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg",
+            "color": "#552583"
+          },
+          "teamB": {
+            "id": "24",
+            "name": "Phoenix Suns",
+            "abbr": "PHX",
+            "logo": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg",
+            "color": "#1D1160"
+          },
+          "winner": "LAL",
+          "confidence": 99.0,
+          "scoreA": 103,
+          "scoreB": 89,
+          "totalPoints": 192.0,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean UNDER"
+          },
+          "statsA": {
+            "pts": 119.0,
+            "reb": 43.0,
+            "ast": 27.0,
+            "fg_pct": 49.4,
+            "fg3_pct": 43.2,
+            "plus_minus": -13.0
+          },
+          "statsB": {
+            "pts": 89.0,
+            "reb": 37.0,
+            "ast": 24.0,
+            "fg_pct": 39.300000000000004,
+            "fg3_pct": 32.300000000000004,
+            "plus_minus": -49.0
+          },
+          "injuries": {
+            "teamA": [
+              {
+                "id": 106,
+                "name": "Austin Reaves",
+                "status": "OUT",
+                "pts_avg": 29.3
+              },
+              {
+                "id": 644,
+                "name": "Maxi Kleber",
+                "status": "OUT",
+                "pts_avg": 1.8
+              }
+            ],
+            "teamB": []
+          },
+          "impactA": 15.4,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T13:56:06.483793"
+        },
+        {
+          "matchId": "GSW-POR-1765722090364892000",
+          "teamA": {
+            "id": "10",
+            "name": "Golden State Warriors",
+            "abbr": "GSW",
+            "logo": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+            "color": "#1D428A"
+          },
+          "teamB": {
+            "id": "25",
+            "name": "Portland Trail Blazers",
+            "abbr": "POR",
+            "logo": "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg",
+            "color": "#E03A3E"
+          },
+          "winner": "POR",
+          "confidence": 65.3,
+          "scoreA": 120,
+          "scoreB": 121,
+          "totalPoints": 241.3,
+          "bettingAnalysis": {
+            "riskLevel": "Secure",
+            "overUnder": "Lean OVER"
+          },
+          "statsA": {
+            "pts": 120.0,
+            "reb": 42.0,
+            "ast": 27.0,
+            "fg_pct": 45.800000000000004,
+            "fg3_pct": 32.6,
+            "plus_minus": -7.0
+          },
+          "statsB": {
+            "pts": 120.0,
+            "reb": 41.0,
+            "ast": 27.0,
+            "fg_pct": 44.1,
+            "fg3_pct": 29.2,
+            "plus_minus": -23.0
+          },
+          "injuries": {
+            "teamA": [],
+            "teamB": []
+          },
+          "impactA": 0.0,
+          "impactB": 0.0,
+          "timestamp": "2025-12-14T14:21:30.365941"
+        }
+      ]
+    }
+  ]
+}
